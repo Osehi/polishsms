@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Polishsms</string>
+    <string name="app_logo">Logo</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="message">Type Message</string>
+    <string name="send_sms">Send sms</string>
 </resources>
